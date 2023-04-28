@@ -25,6 +25,8 @@
 
   p {
     margin: 0; /* Remove all the margins for p*/
+    display: flex;
+    justify-content: space-between; /* Adds horizontal space */
   }
 
 
