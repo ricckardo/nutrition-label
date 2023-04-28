@@ -44,5 +44,6 @@
 }
 
 .large, .medium {
-  background-color: black;
+  background-color: black; /* Makes thick medium underline after serving size*/
+  border: 0; /* Erases the small line that */
 }
