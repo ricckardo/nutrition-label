@@ -18,7 +18,6 @@
   }
   
   h1{
-    font-weight: 800; /* Set the font weight property to 800*/
     text-align: center; /* Aligns the text to the center */
     margin: -4px 0; /* Sets top and bottom margin to -4px and left and right margin of 0 */
     letter-spacing: 0.15px; /* Sets the letter spacing to 0.15px*/
