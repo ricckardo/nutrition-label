@@ -43,6 +43,6 @@
   height: 10px;
 }
 
-.large, medium {
+.large, .medium {
   background-color: black;
 }
