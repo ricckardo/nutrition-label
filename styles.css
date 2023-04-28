@@ -47,3 +47,7 @@
   background-color: black; /* Makes thick medium underline after serving size*/
   border: 0; /* Erases the small line that */
 }
+
+.small-text {
+  font-size: 0.85rem;
+}
