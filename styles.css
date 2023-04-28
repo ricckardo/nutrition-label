@@ -17,7 +17,7 @@
     padding: 0 7px; /* Make the top and bottom padding 0px and the left and right padding 7px*/
   }
   
-  h1{
+  header h1{
     text-align: center; /* Aligns the text to the center */
     margin: -4px 0; /* Sets top and bottom margin to -4px and left and right margin of 0 */
     letter-spacing: 0.15px; /* Sets the letter spacing to 0.15px*/
